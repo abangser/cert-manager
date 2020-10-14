@@ -1,1 +1,2 @@
 nameOverride: cert-manager
+fullnameOverride: cert-manager
