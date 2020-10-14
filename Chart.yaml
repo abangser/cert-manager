@@ -1,0 +1,4 @@
+apiVersion: v1
+description: This chart installs cert-manager from the remote, community supported, helm chart
+name: cert-manager
+version: 0.1.0
